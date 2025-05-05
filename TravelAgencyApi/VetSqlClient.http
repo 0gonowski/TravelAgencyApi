@@ -1,6 +1,0 @@
-@VetSqlClient_HostAddress = http://localhost:5148
-
-GET {{VetSqlClient_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
